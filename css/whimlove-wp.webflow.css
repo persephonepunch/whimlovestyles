@@ -3034,8 +3034,8 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, transparent), to(#000)), url('../images/trio2.jpg');
-  background-image: linear-gradient(180deg, transparent 63%, #000), url('../images/trio2.jpg');
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(63%, transparent), to(#000)), url('https://whimlovestyles.netlify.app/trio2.jpg');
+  background-image: linear-gradient(180deg, transparent 63%, #000), url('https://whimlovestyles.netlify.app/images/trio2.jpg');
   background-position: 0px 0px, 50% 15%;
   background-size: auto, cover;
   color: #fff;
@@ -3225,26 +3225,26 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/Placeholder-1_1.svg');
+  background-image: url('https://whimlovestyles.netlify.app/Placeholder-1_1.svg');
   background-position: 45% 50%;
   background-size: cover;
 }
 
 .picture-placeholder.cc-about-2 {
   height: 620px;
-  background-image: url('../images/placeholder-1---wide.svg');
+  background-image: url('https://whimlovestyles.netlify.app/images/placeholder-1---wide.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .picture-placeholder.cc-about-3 {
-  background-image: url('../images/placeholder-2.svg');
+  background-image: url('https://whimlovestyles.netlify.app/images/placeholder-2.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .picture-placeholder.cc-about-1 {
-  background-image: url('../images/placeholder-1.svg');
+  background-image: url('https://whimlovestyles.netlify.app/placeholder-1.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3508,7 +3508,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/placeholder-1.svg');
+  background-image: url('https://whimlovestyles.netlify.app/placeholder-1.svg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3958,7 +3958,7 @@ figcaption {
   width: 50px;
   height: 50px;
   border-radius: 4px;
-  background-image: url('../images/imani-clovis-234736-unsplash.jpg');
+  background-image: url('https://whimlovestyles.netlify.app/imani-clovis-234736-unsplash.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -3969,7 +3969,7 @@ figcaption {
   margin-right: 13px;
   border-radius: 50%;
   background-color: #ff5f5f;
-  background-image: url('../images/cancel.svg');
+  background-image: url('https://whimlovestyles.netlify.app/cancel.svg');
   background-position: 50% 50%;
   background-size: 7px;
   background-repeat: no-repeat;
@@ -4562,7 +4562,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   background-color: #f4f4f4;
-  background-image: url('../images/trio2.jpg');
+  background-image: url('https://whimlovestyles.netlify.app/trio2.jpg');
   background-position: 50% 50%;
   background-size: cover;
   color: #fff;
@@ -6076,8 +6076,8 @@ figcaption {
     -webkit-align-items: flex-end;
     -ms-flex-align: end;
     align-items: flex-end;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000)), url('../images/trio2.jpg');
-    background-image: linear-gradient(180deg, transparent, #000), url('../images/trio2.jpg');
+    background-image: -webkit-gradient(linear, left top, left bottom, from(transparent), to(#000)), url('https://whimlovestyles.netlify.app/trio2.jpg');
+    background-image: linear-gradient(180deg, transparent, #000), url('https://whimlovestyles.netlify.app/trio2.jpg');
     background-position: 0px 0px, 50% 50%;
     background-size: auto, cover;
   }
@@ -6529,7 +6529,7 @@ figcaption {
 
 @font-face {
   font-family: 'Bohemian';
-  src: url('../fonts/BohemianRegular.woff2') format('woff2'), url('../fonts/BohemianRegular.eot') format('embedded-opentype'), url('../fonts/BohemianRegular.woff') format('woff'), url('../fonts/BohemianRegular.ttf') format('truetype');
+  src: url('https://whimlovestyles.netlify.app/fonts/BohemianRegular.woff2') format('woff2'), url('https://whimlovestyles.netlify.app/fonts/BohemianRegular.eot') format('embedded-opentype'), url('https://whimlovestyles.netlify.app/fonts/BohemianRegular.woff') format('woff'), url('https://whimlovestyles.netlify.app/fonts/BohemianRegular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
